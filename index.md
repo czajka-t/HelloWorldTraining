@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello World Training Page
 
 You can use the [editor on GitHub](https://github.com/czajka-t/HelloWorldTraining/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,6 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+#include <iostream>
+  int main()
+  {
+    std::cout<<"Hello World\n";
+  }
 - Bulleted
 - List
 
